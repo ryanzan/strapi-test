@@ -12,10 +12,7 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "content": {
-      "type": "richtext"
-    },
-    "desc": {
+    "aa": {
       "type": "richtext"
     }
   }

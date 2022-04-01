@@ -6,7 +6,7 @@ const name = pluginPkg.strapi.name;
 
 export default {
   register(app) {
-    app.addFields({ type: 'wysiwyg', Component: Wysiwyg });
+    app.addFields({ type: "wysiwyg", Component: Wysiwyg });
 
     app.registerPlugin({
       id: pluginId,
